@@ -3,6 +3,7 @@
 #  Enzo Bartels de Oliveira
 ## enzocarnier@gmail.com (19)981354149
 > "Human after all"
+	![alt text](FB_IMG_1665965210954.jpg)
 
 ### Objetivo: Dev Front-End
 
