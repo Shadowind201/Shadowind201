@@ -1,5 +1,3 @@
-# Enzo Bartels de Oliveira
- Ola eu sou Enzo
 #  Enzo Bartels de Oliveira
 ## enzocarnier@gmail.com (19)981354149
 > "Human after all"
